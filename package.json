@@ -1,0 +1,24 @@
+{
+  "name": "oktopost-coral",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "authors": [
+    {
+      "name": "Alexey Puchkov",
+      "email": "alexey@oktopost.com",
+      "url": "http://www.oktopost.com/"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "oktopost-plankton": "0.1.8"
+  }
+}
